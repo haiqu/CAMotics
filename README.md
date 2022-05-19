@@ -16,12 +16,12 @@ and tool path generation are much easier. Such software is essential to using a
 CNC.
 
 Being able to simulate is a critical part of creating CNC tool
-paths. Programming a CNC with out a simulator is cutting with out
+paths. Programming a CNC without a simulator is cutting without
 measuring; it's both dangerous and expensive. With CAMotics you can
 preview the results of your cutting operation before you fire up your
 machine. This will save you time and money and open up a world of
 creative possibilities by allowing you to rapidly visualize and
-improve upon designs with out wasting material or breaking tools.
+improve upon designs without wasting material or breaking tools.
 
 See http://camotics.org/
 

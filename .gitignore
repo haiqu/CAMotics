@@ -67,3 +67,4 @@ build.ninja
 *.toc
 
 /examples
+cbang/

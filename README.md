@@ -58,6 +58,8 @@ by C!, can be installed with the following command line:
     sudo apt-get -y install scons build-essential qt5-default python-six \
       libqt5websockets5-dev libqt5opengl5-dev libnode-dev libglu1-mesa-dev \
       pkgconf git
+      
+    Note: In Pi OS qt5-default is called qt5-assistant
 
 ## Building C! (cbang)
 Clone the C! git repository, build the software using scons and set the
